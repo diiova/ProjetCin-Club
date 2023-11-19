@@ -1,0 +1,66 @@
+body {
+    background:  rgb(121,9,28);
+}
+
+.entete {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-top: 5px;
+    text-align: center;
+    background: gold;
+    color:  rgb(121,9,28);
+    font-size: 20px;
+}
+
+#masque {
+    width: 150px;
+    padding-bottom: 1%;
+}
+
+
+.barre {    
+    font-size: 16px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: BOLD;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 1%;
+}
+
+#acc {
+    text-decoration: underline;
+    padding-left: 1cm;
+}
+
+#fil {
+    text-decoration: underline;
+    padding-left: 1cm;
+}
+
+#tar {
+    text-decoration: underline;
+    padding-left: 1cm;
+}
+
+#hor {
+    text-decoration: underline;
+    padding-left: 1cm;
+}
+#fg {
+    width : 350px;
+    padding-left: 10%;
+}
+
+#lland {
+    padding-left: 10%;
+    width: 350px;
+}
+
+#shrouk {
+    padding-left: 10%;
+    width: 350px;
+}
+
+.images{
+    display: block;
+    justify-content: row;
+}
